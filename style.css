@@ -1,0 +1,90 @@
+.Head{
+   color: white;
+   background-color: lightseagreen; 
+   text-align: center;
+   padding: 15px;
+   font-size: 50px;
+   font-weight: bold;
+   font-family:Arial, Helvetica, sans-serif;
+   margin: -10px;;
+}
+img[alt="food img1"]{
+    border: 15px solid lightseagreen;
+    width: 20%;
+    height: 200px;
+    margin-top: 50px;
+    margin-left:230px;
+    margin-right:40px;
+}
+img[alt="food img2"]{
+    border: 15px dashed lightseagreen;
+    width: 20%;
+    height: 200px;
+    margin-right:40px;
+}
+img[alt="food img3"]{
+    border: 15px dotted lightseagreen;
+    width: 20%;
+    height: 200px;
+}
+img[alt="food img4"]{
+    border:15px ridge lightseagreen;
+    width: 20%;
+    height: 200px;
+    margin-left:420px;
+    margin-right:40px;
+    margin-top: 40px;
+}
+img[alt="food img5"]{
+    border:15px groove lightseagreen;
+    width: 20%;
+    height: 200px;
+}
+img[alt="food img6"]{
+    border:15px double lightseagreen;
+    width: 20%;
+    height: 200px;
+    margin-left:420px;
+    margin-right:40px;
+    margin-top: 40px;
+}
+img[alt="food img7"]{
+    width: 20%;
+    height: 200px;
+    margin-bottom: 16px;
+    margin-left: 15px;
+}
+.Food{
+    margin-top: 40px;
+    margin-left:200px;
+    margin-right:200px;
+    border-left: 15px solid rgb(236, 21, 57);
+    border-top: 15px solid green;
+    border-right: 15px solid rgb(245, 5, 149);
+    border-bottom: 15px solid blue;
+    padding: 25px;
+    color:white;
+    background-color: lightseagreen;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+.contact{
+    margin: 30px -15px -15px;
+    background-color:lightseagreen ;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+}
+a{
+    color:white;
+    margin-right: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+a:hover{
+    color:darkblue;
+    text-decoration: underline;
+}
